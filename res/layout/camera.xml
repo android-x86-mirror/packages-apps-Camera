@@ -28,11 +28,11 @@
             android:background="@drawable/border_view_finder">
         <com.android.camera.VideoPreview
                 android:id="@+id/camera_preview"
-                android:layout_width="384dp"
+                android:layout_width="352dp"
                 android:layout_height="288dp"/>
         <com.android.camera.FocusRectangle
                 android:id="@+id/focus_rectangle"
-                android:layout_width="384dp"
+                android:layout_width="352dp"
                 android:layout_height="288dp"/>
     </FrameLayout>
 
